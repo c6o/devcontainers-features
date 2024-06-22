@@ -1,0 +1,6 @@
+{
+    "name": "Codezero local agent and tooling",
+    "id": "codezero",
+    "version": "1.0.0",
+    "description": "A feature that installs the Codezero local agent and tooling"
+}
